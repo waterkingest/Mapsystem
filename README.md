@@ -1,2 +1,2 @@
 # Mapsystem
-基于arcgis api 和vue.js的地图系统
+Map system based on arcgis api and vue.js
